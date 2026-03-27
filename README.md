@@ -2015,3 +2015,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [Marketplace Search MCP](https://github.com/lulzasaur9192/marketplace-search-mcp) - Claude MCP for real-time marketplace search (eBay, Amazon, Poshmark)
